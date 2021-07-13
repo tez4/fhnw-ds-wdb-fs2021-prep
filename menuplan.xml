@@ -1,0 +1,1014 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="de-CH" class="no-js lt-ie11 lt-ie10 lt-ie9 ie" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if IE 9]><html itemscope itemtype="http://schema.org/WebPage" lang="de-CH" class="no-js lt-ie11 lt-ie10 ie" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if gt IE 9]><html itemscope itemtype="http://schema.org/WebPage" lang="de-CH" class="no-js" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if !IE]><script>if(document.documentMode){document.documentElement.className+=' lt-ie'+(document.documentMode+1)+' ie';}</script><![endif]-->
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	concept, design and production by Netvertising AG, Zurich, Switzerland
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2018 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Menuplan - Campus Restaurant | FHNW Brugg-Windisch</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta property="og:type" content="website">
+<meta name="viewport" content="width=device-width, user-scalable=yes, minimum-scale=1.0, initial-scale=1.0">
+<meta name="msapplication-tap-highlight" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+<meta property="og:url" content="https://fhnw.sv-restaurant.ch/de/menuplan/">
+<meta name="description" content="Abwechslungsreiche und feine Mittagsmenus ✔ grosses Salatbuffet ✔ Täglich frisch zubereitet: Montag bis Samstag ➜ JETZT in Windisch GENIESSEN − Ihr Restaurant mit Kaffeebar und Take-Away-Angebot.">
+<meta property="og:title" content="Menuplan">
+<meta property="og:description" content="Abwechslungsreiche und feine Mittagsmenus ✔ grosses Salatbuffet ✔ Täglich frisch zubereitet: Montag bis Samstag ➜ JETZT in Windisch GENIESSEN − Ihr Restaurant mit Kaffeebar und Take-Away-Angebot.">
+<meta property="og:site_name" content="Campus Restaurant | FHNW Brugg-Windisch">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Abwechslungsreiche und feine Mittagsmenus ✔ grosses Salatbuffet ✔ Täglich frisch zubereitet: Montag bis Samstag ➜ JETZT in Windisch GENIESSEN − Ihr Restaurant mit Kaffeebar und Take-Away-Angebot.">
+
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/compressor/merged-caf244c94961689e73abc0c833ef2c85-3bf37df2cb0d4fd3645f3838c1987c91.css.gzip?1620295225" media="all">
+
+
+
+
+			<script>
+				var reqBaseUrl="/typo3conf/ext/netv_svm_template/Resources/Public/dist/js/lib/", netvPageOptions = { 'templateRoot' : '/typo3conf/ext/netv_svm_template/Resources/Public/dist/' };;
+			</script><script src="/typo3temp/compressor/controller-bf38999c16ea8c7f4480feb0f7a29b8f.js.gzip?1617693748" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">var requiredModules = ["jquery","jquery.shariff","jquery.googleanalytics"];</script>
+<script data-main="/typo3conf/ext/netv_svm_template/Resources/Public/dist/js/app.js?1616507752" src="/typo3conf/ext/netv_requirejs/Resources/Public/dist/js/lib/vendor/require.js" async></script>
+			<!--[if lte IE 9]>
+				<link rel="stylesheet" href="https://fast.fonts.net/t/1.css?apiType=css&projectid=19d2676c-b1fd-4c06-b6bc-0d6b66e3aaa9" media="all">
+			<![endif]--><meta itemprop="name" content="Menuplan - Campus Restaurant | FHNW Brugg-Windisch" />
+<link rel="icon" type="image/png" sizes="32x32" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/favicon/favicon-32x32.png?1591343477">
+<link rel="icon" type="image/png" sizes="96x96" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/favicon/favicon-96x96.png?1591343477">
+<link rel="icon" type="image/png" sizes="16x16" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/favicon/favicon-16x16.png?1591343477">
+<link rel="shortcut icon" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/favicon/favicon.ico?1591343477">
+<link rel="apple-touch-icon-precomposed" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/apple-touch-icons/apple-touch-icon-precomposed.png?1591343477">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/apple-touch-icons/apple-touch-icon-76x76-precomposed.png?1591343477">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/apple-touch-icons/apple-touch-icon-144x144-precomposed.png?1591343477">
+<link rel="apple-touch-icon-precomposed" sizes="192x192" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/apple-touch-icons/apple-touch-icon-192x192-precomposed.png?1591343477">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/apple-touch-icons/apple-touch-icon-180x180-precomposed.png?1591343477">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/apple-touch-icons/apple-touch-icon-60x60-precomposed.png?1591343477">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/apple-touch-icons/apple-touch-icon-120x120-precomposed.png?1591343477">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/apple-touch-icons/apple-touch-icon-114x114-precomposed.png?1591343477">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/apple-touch-icons/apple-touch-icon-72x72-precomposed.png?1591343477">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/apple-touch-icons/apple-touch-icon-152x152-precomposed.png?1591343477">
+<link rel="manifest" href="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/android/manifest.json?1591343477">
+<meta name="msapplication-config" content="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/fav-touch/default/mstile/browserconfig.xml?1591343477">
+
+<script type="text/javascript">requiredModules.push("jquery.slick.controller");requiredModules.push("jquery.overlay");requiredModules.push("jquery.resizeTitles");</script>
+<script type="text/javascript">requiredModules.push("jquery.vote-menu-form");</script>
+
+<script type="text/javascript">requiredModules.push("jquery.newsletter");</script>
+<script type="text/javascript">requiredModules.push("jquery.menuplan");</script>
+<script type="text/javascript">requiredModules.push("iframe-resizer");</script>
+<script type="text/javascript">requiredModules.push("iframeresize");</script>
+</head>
+<body class="de " id="pageid-9157">
+
+<div id="browsermessages"><!--[if lte IE 9]><div class="browsermessage nojs"><div class="items"><div class="items-row"><div class="row-item icon"></div><div class="row-item text"><div class="header">Website nur eingeschränkt nutzbar</div><div class="message">Sie surfen mit einem veralteten Webbrowser</div></div></div></div></div><![endif]--><noscript><div class="browsermessage"><div class="items"><div class="items-row"><div class="row-item icon"></div><div class="row-item text"><div class="header" data-text="Website nur eingeschränkt nutzbar"></div><div class="message" data-text="Bitte aktivieren Sie Javascript, um die Website uneingeschränkt nutzen zu können."></div></div></div></div></div></noscript><div class="browsermessage"><div class="items"><div class="items-row cookies"><div class="row-item icon"></div><div class="row-item text"><div class="header" data-text="Website nur eingeschränkt nutzbar"></div><div class="message" data-text="Bitte aktivieren Sie Cookies, um die Website uneingeschränkt nutzen zu können."></div></div></div></div></div></div><div id="l-pagewrapper"><div id="l-container"><header id="l-header" class="l-header"><div id="navbar"><div class="l-constrained l-wide"><div class="logo-wrap"><a href="/de/menuplan/"><img src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/logos/default/logo-header.svg" alt="SV Restaurant" /></a></div><div class="name-wrap"><a href="/de/menuplan/">
+					Campus Restaurant | FHNW Brugg-Windisch
+				</a></div><div class="nav-trigger-wrap"><a target="_self" onclick="netvLib.mainnav.trigger(this, event);"><span class="lines"></span></a></div></div></div><div id="header-content"><!-- this plugin registered jquery.slick.controller,jquery.overlay,jquery.resizeTitles for RequireJS --><!-- this plugin registered jquery.vote-menu-form for RequireJS --><div class="slideshow loading"><img class="preloader" src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/preloader.svg" alt="Laden..."><div class="slick-slider"><!-- HEADERCAMPAINS (from fileadmin/content/headercampaigns) -->
+<!-- BANNERS MENUOFDESIRE WUNSCHMENU (RMADMIN) --><!-- BANNERADS (CMS global, prio >= 80) -->
+
+
+		
+	
+<!-- BANNERADS (Fresh & healthy FRISCH UND GESUND) -->
+	
+
+
+
+<!-- BANNERS RMADMIN -->
+<!-- BANNERADS (CMS global, prio < 80) -->
+
+
+		
+	
+<!-- BANNERADS (CMS local) -->
+	
+		
+				<a href="/de/catering/" target="_self" class="single-slide">
+					
+						
+						
+							
+
+<picture class="background">
+	<source srcset="/fileadmin/_processed_/3/b/csm_ganzjahr_apero_desktop%402x_891a758632.jpg, /fileadmin/_processed_/3/b/csm_ganzjahr_apero_desktop%402x_da4148cf42.jpg 2x" media="(min-width: 769px)" />
+
+	
+			<source srcset="/fileadmin/_processed_/c/7/csm_ganzjahr_apero_mobile%402x_432c4f496d.jpg, /fileadmin/_processed_/c/7/csm_ganzjahr_apero_mobile%402x_81e4d9ad40.jpg 2x" media="(max-width: 768px)" />
+		
+	<img src="/fileadmin/_processed_/3/b/csm_ganzjahr_apero_desktop%402x_891a758632.jpg" alt="Catering"/>
+</picture>
+<div class="slide-content-wrap">
+	<div class="slide-content type2" style="background-color: rgba(0,0,0,.4)")}>
+		
+			<h3>Catering</h3>
+		
+		
+			<p>
+				Sei es für Ihren Apéro, Stehlunch oder feierlichen Anlass
+			</p>
+		
+		
+			<span class="separator"></span>
+			<span class="additional">
+				Zum Catering Angebot
+			</span>
+		
+	</div>
+</div>
+
+						
+						
+					
+				</a>
+			
+	
+
+</div><div class="slides-nav-container"></div></div></div></header><div id="mainnav"><div class="inner"><nav class="main"><ul class="no-bullets"><li><a href="/de/menuplan/" target="_self" class="act">Menuplan</a></li><li><a href="/de/catering/" target="_self">Catering</a></li><li><a href="/de/frisch-gesund/" target="_self">Frisch &amp; Gesund</a></li><li><a href="/de/ueber-uns/" target="_self">Über uns</a></li></ul></nav><nav class="meta"><ul class="no-bullets"><li><a href="/de/feedback/" target="_self">Feedback</a></li><li><a href="/de/kontakt/" target="_self">Kontakt</a></li><li><a href="/de/disclaimer/" target="_self">Disclaimer</a></li><li><a href="/de/datenschutzerklaerung/" target="_self">Datenschutzerklärung</a></li></ul></nav><nav class="mobile"><ul class="switch-restaurant no-bullets"><li><a href="#" onclick="netvLib.restaurantSwitcher.trigger(this, event);">Weitere Restaurants</a></li></ul></nav></div><nav class="parent"><ul class="no-bullets"><li><a href="http://www.sv-restaurant.ch/de/" target="_blank">www.sv-restaurant.ch</a></li></ul></nav></div><div id="restaurant-switcher"><a href="#" onclick="netvLib.restaurantSwitcher.trigger(this, event);">Weitere Restaurants</a></div><div id="restaurant-switcher-overlay"><a href="#" class="restaurant-switcher-close" onclick="netvLib.restaurantSwitcher.trigger(this, event);"><i></i></a><div class="map-wrap"><div class="title">
+						Öffentliche Restaurants in Ihrer Umgebung
+					</div><div class="map"><div class="googlemap" data-ajax-url="/de/menuplan/persrest-data.json"></div></div></div></div><main id="l-main" itemprop="mainContentOfPage"><div class="l-constrained l-full l-content"><div class="content content-list-"><a class="anchor" id="c50423"></a>
+
+
+
+
+<!-- this plugin registered jquery.newsletter for RequireJS -->
+<!-- this plugin registered jquery.menuplan for RequireJS -->
+
+<div class="menu-plan-wrap">
+    
+    
+	<div class="l-constrained l-special">
+		<div class="coe pagetitle">
+			<h1 class="title">Menuplan</h1>
+		</div>
+
+		
+
+		
+			<input id="mp-tab1" name="mp-tab" value="" checked type="radio">
+		
+			<input id="mp-tab2" name="mp-tab" value=""  type="radio">
+		
+			<input id="mp-tab3" name="mp-tab" value=""  type="radio">
+		
+			<input id="mp-tab4" name="mp-tab" value=""  type="radio">
+		
+
+		<div class="day-nav">
+			
+				<ul class="no-bullets is-horizontal">
+					
+						<li>
+							<label for="mp-tab1">
+								<span class="day">Di</span>
+								<span class="date">13.07.</span>
+							</label>
+						</li>
+					
+						<li>
+							<label for="mp-tab2">
+								<span class="day">Mi</span>
+								<span class="date">14.07.</span>
+							</label>
+						</li>
+					
+						<li>
+							<label for="mp-tab3">
+								<span class="day">Do</span>
+								<span class="date">15.07.</span>
+							</label>
+						</li>
+					
+						<li>
+							<label for="mp-tab4">
+								<span class="day">Fr</span>
+								<span class="date">16.07.</span>
+							</label>
+						</li>
+					
+				</ul>
+			
+		</div>
+
+		<div class="menu-plan-tabs">
+			
+					
+						<div id="menu-plan-tab1" class="menu-plan-grid">
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Frische Pasta</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Rauchlachs<br />
+Dill<br />
+Panna<br />
+Cherrytomaten<br />
+Parmesan<br />
+Tagessalat</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">12.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">16.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+										<span class="menu-provenance">Herkunft Fisch: Zucht, Norwegen</span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Rind&shy;fleischvogel</h2>
+										<span class="divider"></span>
+										<p class="menu-description">mit Kartoffelstock<br />
+dazu Bohnen <br />
+mit Zwiebelbutter</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">8.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">11.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+										<span class="menu-provenance">Herkunft Rind und Schwein: Schweiz</span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Quorn Southern Fried Bites</h2>
+										<span class="divider"></span>
+										<p class="menu-description">mit Joghurt Dip,<br />
+gebratener Reis <br />
+mit Gemüse und Ei<br />
+Tagesfrucht</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">8.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">11.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+											<div class="menu-labels">
+												
+													
+		<span class="label label-vegetarian has-infobox">
+			<img class="onlyprint" src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/print/vegetarian.png" width="121" height="121" alt="" />
+			<div class="label-info label-vegetarian ">
+				<a class="close" href="#"><i class="ico-close"></i></a>
+				<div class="inner">
+					<p>Vegetarisch:<br />
+Dieses Menu beinhaltet weder Fleisch noch Fisch.</p>
+					
+						
+						
+						
+						
+							
+						
+					
+				</div>
+			</div>
+		</span>
+	
+												
+												
+											</div>
+										
+										<span class="menu-provenance"></span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Pilzcreme Suppe</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Big Portion  CHF 7.50</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">2.00</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">3.00</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+											<div class="menu-labels">
+												
+													
+		<span class="label label-vegetarian has-infobox">
+			<img class="onlyprint" src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/print/vegetarian.png" width="121" height="121" alt="" />
+			<div class="label-info label-vegetarian ">
+				<a class="close" href="#"><i class="ico-close"></i></a>
+				<div class="inner">
+					<p>Vegetarisch:<br />
+Dieses Menu beinhaltet weder Fleisch noch Fisch.</p>
+					
+						
+						
+						
+						
+							
+						
+					
+				</div>
+			</div>
+		</span>
+	
+												
+												
+											</div>
+										
+										<span class="menu-provenance"></span>
+										
+									</div>
+								</div>
+							
+						</div>
+					
+						<div id="menu-plan-tab2" class="menu-plan-grid">
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Schweizer Pouletbrust</h2>
+										<span class="divider"></span>
+										<p class="menu-description">an Balsamicojus <br />
+mit Basilikumrisotto<br />
+und Pfälzer Rüebli</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">14.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">18.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+										<span class="menu-provenance">Herkunft Geflügel: Schweiz</span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Kalbs&shy;hacksteak</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Kräutersauce <br />
+Cous Cous <br />
+Kohlrabi mit Kräutern</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">8.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">11.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+										<span class="menu-provenance">Herkunft Kalb: Schweiz</span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Gemüse&shy;lasagne</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Menüsalat</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">8.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">11.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+											<div class="menu-labels">
+												
+													
+		<span class="label label-vegetarian has-infobox">
+			<img class="onlyprint" src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/print/vegetarian.png" width="121" height="121" alt="" />
+			<div class="label-info label-vegetarian ">
+				<a class="close" href="#"><i class="ico-close"></i></a>
+				<div class="inner">
+					<p>Vegetarisch:<br />
+Dieses Menu beinhaltet weder Fleisch noch Fisch.</p>
+					
+						
+						
+						
+						
+							
+						
+					
+				</div>
+			</div>
+		</span>
+	
+												
+												
+											</div>
+										
+										<span class="menu-provenance"></span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Geflügel-Kerbel Suppe</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Big Portion  CHF 7.50</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">2.00</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">3.00</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+										<span class="menu-provenance">Herkunft Geflügel: Schweiz</span>
+										
+									</div>
+								</div>
+							
+						</div>
+					
+						<div id="menu-plan-tab3" class="menu-plan-grid">
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Fish and Chips</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Erbsenpüree<br />
+Blattsalat</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">8.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">12.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+										<span class="menu-provenance">Herkunft Alaska Pollack: Wildfang, Nordostatlantik</span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Truthahn&shy;schnitzel</h2>
+										<span class="divider"></span>
+										<p class="menu-description">dazu Paprikasauce , <br />
+Spätzli<br />
+und Rüebli <br />
+mit Sesam</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">8.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">11.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+										<span class="menu-provenance">Herkunft Truthahn: Polen</span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Frühlings&shy;rollen</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Sweet-Thai-Chilisauce <br />
+Basmatireis <br />
+Orientalisches Gemüse</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">8.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">11.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+											<div class="menu-labels">
+												
+													
+		<span class="label label-vegan has-infobox">
+			<img class="onlyprint" src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/print/vegan.png" width="121" height="121" alt="" />
+			<div class="label-info label-vegan ">
+				<a class="close" href="#"><i class="ico-close"></i></a>
+				<div class="inner">
+					<p>Vegan:<br />
+Auf Produkte und Zutaten tierischen Ursprungs wurde vollständig verzichtet.</p>
+					
+						
+						
+						
+						
+							
+						
+					
+				</div>
+			</div>
+		</span>
+	
+												
+												
+											</div>
+										
+										<span class="menu-provenance"></span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Spargel Suppe</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Big Portion  CHF 7.50</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">2.00</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">3.00</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+											<div class="menu-labels">
+												
+													
+		<span class="label label-vegetarian has-infobox">
+			<img class="onlyprint" src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/print/vegetarian.png" width="121" height="121" alt="" />
+			<div class="label-info label-vegetarian ">
+				<a class="close" href="#"><i class="ico-close"></i></a>
+				<div class="inner">
+					<p>Vegetarisch:<br />
+Dieses Menu beinhaltet weder Fleisch noch Fisch.</p>
+					
+						
+						
+						
+						
+							
+						
+					
+				</div>
+			</div>
+		</span>
+	
+												
+												
+											</div>
+										
+										<span class="menu-provenance"></span>
+										
+									</div>
+								</div>
+							
+						</div>
+					
+						<div id="menu-plan-tab4" class="menu-plan-grid">
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Vegi Kebab aus Seitan</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Döner Sauce <br />
+Fladenbrot <br />
+Rüebli und Kabissalat</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">11.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">15.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+											<div class="menu-labels">
+												
+													
+		<span class="label label-vegetarian has-infobox">
+			<img class="onlyprint" src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/print/vegetarian.png" width="121" height="121" alt="" />
+			<div class="label-info label-vegetarian ">
+				<a class="close" href="#"><i class="ico-close"></i></a>
+				<div class="inner">
+					<p>Vegetarisch:<br />
+Dieses Menu beinhaltet weder Fleisch noch Fisch.</p>
+					
+						
+						
+						
+						
+							
+						
+					
+				</div>
+			</div>
+		</span>
+	
+												
+												
+											</div>
+										
+										<span class="menu-provenance"></span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">MSC-Schlemmer&shy;filet Bordelaise</h2>
+										<span class="divider"></span>
+										<p class="menu-description">mit Kräuter-Kartoffeln<br />
+und Blattspinat</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">8.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">11.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+										<span class="menu-provenance">Herkunft Alaska Seelachs: Wildfang, Nordwestpazifik</span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Medaglioni</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Karotten und Kräuter<br />
+Tomatensauce<br />
+und Tagessalat</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">8.50</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">11.50</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+											<div class="menu-labels">
+												
+													
+		<span class="label label-vegan has-infobox">
+			<img class="onlyprint" src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/print/vegan.png" width="121" height="121" alt="" />
+			<div class="label-info label-vegan ">
+				<a class="close" href="#"><i class="ico-close"></i></a>
+				<div class="inner">
+					<p>Vegan:<br />
+Auf Produkte und Zutaten tierischen Ursprungs wurde vollständig verzichtet.</p>
+					
+						
+						
+						
+						
+							
+						
+					
+				</div>
+			</div>
+		</span>
+	
+												
+												
+											</div>
+										
+										<span class="menu-provenance"></span>
+										
+									</div>
+								</div>
+							
+								<div class="menu-item">
+									<div class="item-content">
+										
+										<h2 class="menu-title">Gersten Suppe</h2>
+										<span class="divider"></span>
+										<p class="menu-description">Big Portion  CHF 7.50</p>
+										<div class="menu-prices prices-3">
+											
+												<span class="price">
+													<span class="val">2.00</span>
+													<span class="desc">INT</span>
+												</span>
+											
+												<span class="price">
+													<span class="val">3.00</span>
+													<span class="desc">EXT</span>
+												</span>
+											
+										</div>
+										
+											<div class="menu-labels">
+												
+													
+		<span class="label label-vegetarian has-infobox">
+			<img class="onlyprint" src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/icons/print/vegetarian.png" width="121" height="121" alt="" />
+			<div class="label-info label-vegetarian ">
+				<a class="close" href="#"><i class="ico-close"></i></a>
+				<div class="inner">
+					<p>Vegetarisch:<br />
+Dieses Menu beinhaltet weder Fleisch noch Fisch.</p>
+					
+						
+						
+						
+						
+							
+						
+					
+				</div>
+			</div>
+		</span>
+	
+												
+												
+											</div>
+										
+										<span class="menu-provenance"></span>
+										
+									</div>
+								</div>
+							
+						</div>
+					
+				
+		</div>
+
+		
+		
+		<div class="menu-meta-nav">
+			<ul class="no-bullets is-horizontal">
+				
+					<li>
+						<a href="/uploads/tx_netvsvgmenu_mbs5/27824100/2021W28-de_27824100.pdf" target="_blank">
+							<i class="ico ico-menu1"></i>
+							<span class="text">Menuplan W28</span>
+							<span class="link">pdf</span>
+						</a>
+					</li>
+				
+				<li>
+					<a href="#" class="trigger-newsletter">
+						<i class="ico ico-menu-nl"></i>
+						<span class="text">Menu Newsletter</span>
+						<span class="link">Anmelden</span>
+					</a>
+				</li>
+				
+					<li>
+						
+							<a id="menu-plan-cal1" rel="nofollow" href="/de/menuplan/invite-friends/ics/1626141600/">
+								<i class="ico ico-menu-ics"></i>
+								<span class="text">Essen mit Freunden</span>
+								<span class="link">Einladen</span>
+							</a>
+						
+							<a id="menu-plan-cal2" rel="nofollow" href="/de/menuplan/invite-friends/ics/1626228000/">
+								<i class="ico ico-menu-ics"></i>
+								<span class="text">Essen mit Freunden</span>
+								<span class="link">Einladen</span>
+							</a>
+						
+							<a id="menu-plan-cal3" rel="nofollow" href="/de/menuplan/invite-friends/ics/1626314400/">
+								<i class="ico ico-menu-ics"></i>
+								<span class="text">Essen mit Freunden</span>
+								<span class="link">Einladen</span>
+							</a>
+						
+							<a id="menu-plan-cal4" rel="nofollow" href="/de/menuplan/invite-friends/ics/1626400800/">
+								<i class="ico ico-menu-ics"></i>
+								<span class="text">Essen mit Freunden</span>
+								<span class="link">Einladen</span>
+							</a>
+						
+					</li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="l-constrained l-content">
+	<div class="teaser-otw">
+	<div class="imageholder">
+		<div class="logo">
+			<img src="/typo3conf/ext/netv_svm_onetwowe/Resources/Public/Icons/onetwowe.svg" width="512" height="512" alt="" />
+		</div>
+		
+			<picture>
+				<source srcset="/fileadmin/_processed_/0/1/csm_bananen_Original_3130_17c1bf481a.jpg, /fileadmin/_processed_/0/1/csm_bananen_Original_3130_98382aed77.jpg 2x" media="(min-width: 48.0625em)">
+				<source srcset="/fileadmin/_processed_/0/1/csm_bananen_Original_3130_eb5b7c67ad.jpg, /fileadmin/_processed_/0/1/csm_bananen_Original_3130_21e0139428.jpg 2x" media="(min-width: 26.3125em) and (max-width: 48em)" />
+				<source srcset="/fileadmin/_processed_/0/1/csm_bananen_Original_3130_fbcdf60f8c.jpg, /fileadmin/_processed_/0/1/csm_bananen_Original_3130_811b74b1ab.jpg 2x" media="(max-width: 26.25em)">
+				<img src="/fileadmin/_processed_/0/1/csm_bananen_Original_3130_17c1bf481a.jpg" alt="">
+			</picture>
+		
+	</div>
+	<div class="textholder">
+		<p class="meta">
+			Aktuell
+		</p>
+		<div class="title do-dottify">
+			<span class="inner-dottify">
+				Fairtrade - Max Havelaar Bananen
+			</span>
+		</div>
+		<div class="sub-link">
+			<a target="_blank" href="http://www.one-two-we.ch/de/onetwowe/#!aktuell,224">
+				Mehr
+			</a>
+		</div>
+		<div class="link">
+			<a target="_blank" href="http://www.one-two-we.ch/de/onetwowe/">
+				Zur One Two We Website
+			</a>
+		</div>
+	</div>
+</div>
+</div>
+
+
+
+
+
+
+		<div id="newsletter-overlay">
+			<a href="#" class="newsletter-close" data-ajax-url="/de/menuplan/?type=66890"><i></i></a>
+	
+            <div class="newsletter-container">
+                
+                        
+    <style>
+      .newsletter-container {
+        min-width:100%;
+      }
+      #nlSubscribeFrame {
+        width: 1px;
+        min-width: 100%;
+        border: 0;
+      }
+    </style>
+    <iframe src="https://menu-newsletter.sv-group.ch/pl/d1c/9ac7/1367/subscribe/de?id=27824100" id="nlSubscribeFrame"></iframe>
+	<!-- this plugin registered iframe-resizer for RequireJS -->
+	<!-- this plugin registered iframeresize for RequireJS -->
+
+                    
+            </div>
+
+		</div>
+	
+
+
+
+
+
+</div></div></main><footer id="l-footer"><div class="l-constrained l-full"><div id="footerbar"><div class="l-constrained l-wide"><div class="footer-navigation-wrap"><span class="footer-title">
+						Campus Restaurant | FHNW Brugg-Windisch
+					</span><div class="footer-navigation"><nav class="footer-mainnav"><ul class="no-bullets"><li><a href="/de/menuplan/" target="_self" class="act">Menuplan</a></li><li><a href="/de/catering/" target="_self">Catering</a></li><li><a href="/de/frisch-gesund/" target="_self">Frisch &amp; Gesund</a></li><li><a href="/de/ueber-uns/" target="_self">Über uns</a></li></ul></nav><nav class="footer-metanav"><ul class="no-bullets"><li><a href="/de/feedback/" target="_self">Feedback</a></li><li><a href="/de/kontakt/" target="_self">Kontakt</a></li><li><a href="/de/disclaimer/" target="_self">Disclaimer</a></li><li><a href="/de/datenschutzerklaerung/" target="_self">Datenschutzerklärung</a></li></ul></nav></div></div><div class="footer-opening-hours"><span class="footer-title">
+							Öffnungszeiten
+						</span><div class="opening-hours"><p><strong>Restaurant</strong><br/></p><p><strong>Montag bis Freitag</strong><br/>
+		09.00 - 13.00 Uhr
+	</p><p><strong>Samstag</strong><br/>
+		geschlossen
+	</p><p><strong></strong><br/></p><p><strong>Campus Bar</strong><br/></p><p><strong></strong><br/>
+		vorübergehend geschlossen
+	</p><p><strong>Sonderöffnungzeiten FHNW:</strong><br/></p><p><strong>Juli, August und Feiertage</strong><br/></p><p><strong>www.fhnw.ch</strong><br/></p></div></div><div class="footer-logo"><a href="/de/menuplan/"><img src="/typo3conf/ext/netv_svm_template/Resources/Public/media/images/logos/default/logo.svg" alt="logo" /></a></div></div></div><div id="footer-meta"><div class="l-constrained l-wide"><div class="copyright">
+			©&nbsp;<span itemprop="copyrightYear">2021</span>&nbsp;<span itemprop="legalName">Campus Restaurant | FHNW Brugg-Windisch</span></div></div></div></div></footer></div></div>
+<!-- RequireJS module "jquery.googleanalytics" inserted by typoscript --><script>var gak = 'UA-1431446-17';window.GoogleAnalyticsObject = "__ga__";
+				window.__ga__ = {
+					q: [['create', gak , {'cookieDomain': 'none'}],['set', 'forceSSL', true],['set', 'anonymizeIp', true],['set', 'language', 'de'],['send','pageview']],
+					l: Date.now()
+				};</script>
+
+<script src="/typo3temp/compressor/merged-8a815652e60b2875ed22199a6e4a863f-f475f0c8d7657686b19148805a0499be.js.gzip?1617693748" type="text/javascript"></script>
+
+
+<!-- pageid=9157-->
+
+</body>
+</html>
